@@ -1,6 +1,9 @@
 ## DEEP LEARNING - IMAGE CAPTIONING: A COMPARATIVE STUDY
 To be Filled 
 
+**Dataset**
+[MS COCO Dataset](https://cocodataset.org/#home)
+
 ## ATTENTION MODEL + ResNet50 
 ##### MODEL DESCRIPTION:
 
