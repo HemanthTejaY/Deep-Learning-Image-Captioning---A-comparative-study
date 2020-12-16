@@ -2,7 +2,7 @@
 Image captioning, defined as the automatic description of the content of an image, is a fundamental problem in artificial intelligence that lies at the intersection of computer vision and natural language processing. It requires recognizing the important objects, their attributes, and their relationships in an
 image, and also generating syntactically and semantically correct sentences that describe the image. Deep learning-based techniques, which are known to work well for a wide array of complex tasks, have been used for Image Captioning as well. Here, we aim to present a comparative study of the performance of two deep learning-based image captioning techniques on the benchmark MS-COCO dataset. We, thus, aim to compare these models using Natural Language Processing performance metrics.
 
-**Dataset** : [MS COCO Dataset](https://cocodataset.org/#home) is used in this project.
+**Dataset Used** : [MS COCO Dataset](https://cocodataset.org/#home) 
 
 ## ATTENTION MODEL + ResNet50 
 ##### MODEL DESCRIPTION:
