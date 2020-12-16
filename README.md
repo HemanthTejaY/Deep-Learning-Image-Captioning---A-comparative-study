@@ -36,9 +36,9 @@ View Detailed Results     |  View Detailed Epoch Results
 
 
 ## ATTENTION MODEL + InceptionV3 : 
-###### PERFORMANCE SUMMARY
+##### MODEL PERFORMANCE SUMMARY
  <p align="center">
-  <img width="740" height="180" src="https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/res0.png">
+  <img src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/model1res.png">
 </p>
 
 ### MODEL 1: 
@@ -48,14 +48,10 @@ View Detailed Results     |  View Detailed Epoch Results
 |-------------------- | -------------------------|----------------|---------------|------------------|----------------|-------------------|        
 |  Bahdanau Attention | 5,000                    | 6,000          | 10            |5                 |      30,000    | 64                |
 
-
-
-
-
-WER- WORD ERROR RATE       |  PREDICTIONS
-:-------------------------:|:-------------------------:
-![](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/final0.png)  |  ![](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/predictions0.png)
-
+##### PREDICTION EXAMPLE
+ <p align="center">
+  <img src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions0.png">
+</p>
 
 View Detailed Epoch Results     |  View Folder Containing Image Results
 :-------------------------:|:-------------------------:
@@ -68,16 +64,10 @@ View Detailed Epoch Results     |  View Folder Containing Image Results
 |-------------------- | -------------------------|----------------|---------------|------------------|----------------|-------------------|        
 |  Bahdanau Attention | 7,000                    | 6,000          | 30            |5                 |    30,000      | 64                |
 
- ###### BLEU Scores - Bilingual Evaluation Understudy
- 
+##### PREDICTION EXAMPLE
  <p align="center">
-  <img width="740" height="180" src="https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/res1.png">
+  <img src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions1.png">
 </p>
-
-
-WER- WORD ERROR RATE       |  PREDICTIONS
-:-------------------------:|:-------------------------:
-![](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/final1.png)  |  ![](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/predictions1.png)
 
 View Detailed Epoch Results     |  View Folder Containing Image Results
 :-------------------------:|:-------------------------:
@@ -90,13 +80,11 @@ View Detailed Epoch Results     |  View Folder Containing Image Results
 |-------------------- | -------------------------|----------------|---------------|------------------|----------------|-------------------|        
 |  Bahdanau Attention | 7,000                    | 10,000         | 50            |5                 |    50,000      | 64                |
 
-
+##### PREDICTION EXAMPLE
+ <p align="center">
+  <img src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions2.png">
+</p>
  
-
-WER- WORD ERROR RATE       |  PREDICTIONS
-:-------------------------:|:-------------------------:
-![](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/final2.png)  |  ![](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/predictions2.png)
-
 View Detailed Epoch Results     |  View Folder Containing Image Results
 :-------------------------:|:-------------------------:
 [Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Attention%20Results/attention-model2/epochs/attention-model-3.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/tree/main/Attention%20Results/attention-model2)
