@@ -90,8 +90,7 @@ View Detailed Epoch Results     |  View Folder Containing Image Results| View Su
 ## REFERENCES
 
 [1] Shetty, Rakshith, et al. “Speaking the Same Language: Matching Machine to Human Captions by
-Adversarial Training.” ArXiv:1703.10476 [Cs], Nov. 2017. arXiv.org,
-http://arxiv.org/abs/1703.10476}{http://arxiv.org/abs/1703.10476 
+Adversarial Training.” ArXiv:1703.10476 [Cs], Nov. 2017. arXiv.org, http://arxiv.org/abs/1703.10476 
 
 [2] Hossain, Md Zakir, et al. “A Comprehensive Survey of Deep Learning for Image Captioning.”
 ArXiv:1810.04020 [Cs, Stat], Oct. 2018. arXiv.org,http://arxiv.org/abs/1810.04020}{http://arxiv.org/abs/1810.04020 
