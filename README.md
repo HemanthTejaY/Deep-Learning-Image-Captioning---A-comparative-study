@@ -1,5 +1,3 @@
-Deep Learning Course @New York University
-
 ## DEEP LEARNING - IMAGE CAPTIONING: A COMPARATIVE STUDY
 To be Filled 
 
