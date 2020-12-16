@@ -85,9 +85,9 @@ View Detailed Epoch Results     |  View Folder Containing Image Results
   <img src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions2.png">
 </p>
  
-View Detailed Epoch Results     |  View Folder Containing Image Results
-:-------------------------:|:-------------------------:
-[Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2/epochs/attention-model-3.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2)
+View Detailed Epoch Results     |  View Folder Containing Image Results| View Summarized Result
+:-------------------------:|:-------------------------:|:-------------------------:
+[Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2/epochs/attention-model-3.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2) |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2)
 
 ## REFERENCES
 
