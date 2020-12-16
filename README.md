@@ -87,6 +87,11 @@ View Detailed Epoch Results     |  View Folder Containing Image Results| View Re
 :-------------------------:|:-------------------------:|:-------------------------:
 [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2/epochs/attention-model-3.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2) |  [Click To View]()
 
+## Authors
+1. Hemanth Teja Y (New York University) <hy1713@nyu.edu>
+2. Rahul Chinthala (New York University) <rc4080@nyu.edu>
+
+
 ## REFERENCES
 
 [1] Shetty, Rakshith, et al. “Speaking the Same Language: Matching Machine to Human Captions by
