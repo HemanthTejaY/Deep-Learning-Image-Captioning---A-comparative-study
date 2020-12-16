@@ -3,8 +3,8 @@ Deep Learning Course @New York University
 ## DEEP LEARNING - IMAGE CAPTIONING: A COMPARATIVE STUDY
 To be Filled 
 
-## Attention Model + ResNet50  
-##### Model Description:
+## ATTENTION MODEL + ResNet50 
+##### MODEL DESCRIPTION:
 
 | Attention Mechanism | Vocabulary(Unique Words) |Number of Images|Training Epochs|Captions per image|Total Datapoints|Training Batch Size|
 |-------------------- | -------------------------|----------------|---------------|------------------|----------------|-------------------|        
@@ -35,23 +35,21 @@ View Detailed Results     |  View Detailed Epoch Results
 </p>
 
 
-## Attention Model + InceptionV3 : 
+## ATTENTION MODEL + InceptionV3 : 
+###### PERFORMANCE SUMMARY
+ <p align="center">
+  <img width="740" height="180" src="https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/res0.png">
+</p>
+
 ### MODEL 1: 
-##### Model Description:
+##### MODEL DESCRIPTION:
 
 | Attention Mechanism | Vocabulary(Unique Words) |Number of Images|Training Epochs|Captions per image|Total Datapoints|Training Batch Size|
 |-------------------- | -------------------------|----------------|---------------|------------------|----------------|-------------------|        
 |  Bahdanau Attention | 5,000                    | 6,000          | 10            |5                 |      30,000    | 64                |
 
- <p align="center">
-  <img src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/model1res.png">
-</p>
 
- ###### BLEU Scores - Bilingual Evaluation Understudy
- 
- <p align="center">
-  <img width="740" height="180" src="https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/res0.png">
-</p>
+
 
 
 WER- WORD ERROR RATE       |  PREDICTIONS
@@ -64,7 +62,7 @@ View Detailed Epoch Results     |  View Folder Containing Image Results
 [Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Attention%20Results/attention-model0/epochs/attention-model-0.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/tree/main/Attention%20Results/attention-model0)
 
 ### MODEL 2: 
-##### Model Description:
+##### MODEL DESCRIPTION:
 
 | Attention Mechanism | Vocabulary(Unique Words) |Number of Images|Training Epochs|Captions per image|Total Datapoints|Training Batch Size|
 |-------------------- | -------------------------|----------------|---------------|------------------|----------------|-------------------|        
@@ -86,18 +84,14 @@ View Detailed Epoch Results     |  View Folder Containing Image Results
 [Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Attention%20Results/attention-model1/epochs/attention-model-2.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/tree/main/Attention%20Results/attention-model1)
 
 ### MODEL 3: 
-##### Model Description:
+##### MODEL DESCRIPTION:
 
 | Attention Mechanism | Vocabulary(Unique Words) |Number of Images|Training Epochs|Captions per image|Total Datapoints|Training Batch Size|
 |-------------------- | -------------------------|----------------|---------------|------------------|----------------|-------------------|        
 |  Bahdanau Attention | 7,000                    | 10,000         | 50            |5                 |    50,000      | 64                |
 
- ###### BLEU Scores - Bilingual Evaluation Understudy
- 
- <p align="center">
-  <img width="740" height="180" src="https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Images/res2.png">
-</p>
 
+ 
 
 WER- WORD ERROR RATE       |  PREDICTIONS
 :-------------------------:|:-------------------------:
