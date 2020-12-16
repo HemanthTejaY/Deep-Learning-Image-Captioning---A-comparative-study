@@ -69,9 +69,9 @@ View Detailed Epoch Results     |  View Folder Containing Image Results
   <img src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions1.png">
 </p>
 
-View Detailed Epoch Results     |  View Folder Containing Image Results
-:-------------------------:|:-------------------------:
-[Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/blob/main/Attention%20Results/attention-model1/epochs/attention-model-2.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Image-Captioning-A-Comparative-Study/tree/main/Attention%20Results/attention-model1)
+View Detailed Epoch Results     |  View Folder Containing Image Results| View Summarized Result
+:-------------------------:|:-------------------------:|:-------------------------:
+[Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model1/epochs/attention-model-2.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model1) |  [Click To View]()
 
 ### MODEL 3: 
 ##### MODEL DESCRIPTION:
@@ -87,7 +87,7 @@ View Detailed Epoch Results     |  View Folder Containing Image Results
  
 View Detailed Epoch Results     |  View Folder Containing Image Results| View Summarized Result
 :-------------------------:|:-------------------------:|:-------------------------:
-[Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2/epochs/attention-model-3.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2) |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2)
+[Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2/epochs/attention-model-3.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2) |  [Click To View]()
 
 ## REFERENCES
 
