@@ -51,7 +51,7 @@ View Detailed Results     |  View Detailed Epoch Results
   <img  height="250" width="700" src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions0.png">
 </p>
 
-View Detailed Epoch Results     |  View Folder Containing Image Results| View Summarized Result
+View Detailed Epoch Results     |  View Folder Containing Image Results| View Report
 :-------------------------:|:-------------------------:|:-------------------------:
 [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model0/epochs/attention-model-0.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model0) |  [Click To View]()
 
@@ -67,7 +67,7 @@ View Detailed Epoch Results     |  View Folder Containing Image Results| View Su
   <img  height="250" width="700" src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions1.png">
 </p>
 
-View Detailed Epoch Results     |  View Folder Containing Image Results| View Summarized Result
+View Detailed Epoch Results     |  View Folder Containing Image Results| View Report
 :-------------------------:|:-------------------------:|:-------------------------:
 [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model1/epochs/attention-model-2.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model1) |  [Click To View]()
 
@@ -83,7 +83,7 @@ View Detailed Epoch Results     |  View Folder Containing Image Results| View Su
   <img  height="250" width="700" src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Images/predictions2.png">
 </p>
  
-View Detailed Epoch Results     |  View Folder Containing Image Results| View Summarized Result
+View Detailed Epoch Results     |  View Folder Containing Image Results| View Report
 :-------------------------:|:-------------------------:|:-------------------------:
 [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2/epochs/attention-model-3.pdf)  |  [Click To View](https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%20Results/attention-model2) |  [Click To View]()
 
