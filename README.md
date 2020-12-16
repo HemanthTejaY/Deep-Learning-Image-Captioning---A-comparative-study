@@ -2,7 +2,8 @@
 To be Filled 
 
 **Dataset**
-[MS COCO Dataset](https://cocodataset.org/#home)
+
+[MS COCO Dataset](https://cocodataset.org/#home) is used in this project.
 
 ## ATTENTION MODEL + ResNet50 
 ##### MODEL DESCRIPTION:
